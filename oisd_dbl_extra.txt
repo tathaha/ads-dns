@@ -5,6 +5,19 @@
 # Homepage: https://oisd.nl
 # Syntax: Domains                                             
 
+click.oneplus.cn
+logservice1.hicloud.com
+logservice.hicloud.com
+metrics5.data.hicloud.com
+metrics1.data.hicloud.com
+metrics.data.hicloud.com
+extmaps-api.yandex.net
+amazonaax.com
+w1.luckyorange.com
+cdn.luckyorange.com
+browser.sentry-cdn.com
+app.getsentry.com
+advertising.twitter.com
 102.112.2o7.net
 102.122.2o7.net
 112.2o7.net
